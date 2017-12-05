@@ -1,5 +1,7 @@
 シーンの大局的かつ局所的な整合性を考慮した画像補完を行う
 元の論文: http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/ja/
+*.sh はremoteにはあげてない
+
 
 com_{train, updater}
 	補完器をMSEのみを用いて学習する
